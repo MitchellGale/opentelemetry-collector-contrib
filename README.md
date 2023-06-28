@@ -28,7 +28,7 @@
 
 <p align="center">
   <strong>
-    <a href="https://github.com/open-telemetry/opentelemetry-collector/blob/main/docs/vision.md">Vision</a>
+    <a href="https://github.com/open-telemetry/opentelemetry-collector/blob/main/docs/vision.md">Vision </a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://github.com/open-telemetry/opentelemetry-collector/blob/main/docs/design.md">Design</a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
